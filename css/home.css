@@ -1,0 +1,91 @@
+body
+{
+    border:1px solid black;
+}
+
+.glyphiconbigger
+{
+    font-size: 1.5em;
+}
+
+.border
+{
+
+}
+
+.margin25
+{
+  
+}
+
+.bg
+{
+    background-color: black;
+}
+
+.header
+{
+    height:auto;
+    background-color:cornflowerblue;
+}
+
+.footer
+{
+    background-color:cornflowerblue;
+    position:absolute;
+    height:auto;
+    width:100%;
+}
+
+.whitetext
+{
+    color:#FFF;
+}
+
+.centertext
+{
+    text-align:center;
+}
+
+#hcs.navbar-default .navbar-brand {
+    color: rgba(119, 119, 119, 1);
+}
+#hcs.navbar-default {
+    font-size: 14px;
+    background-color: rgba(248, 248, 248, 1);
+    border-width: 1px;
+    border-radius: 4px;
+}
+#hcs.navbar-default .navbar-nav>li>a {
+    color: rgba(119, 119, 119, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#hcs.navbar-default .navbar-nav>li>a:hover,
+#hcs.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#hcs.navbar-default .navbar-nav>.active>a,
+#hcs.navbar-default .navbar-nav>.active>a:hover,
+#hcs.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(85, 85, 85, 1);
+    background-color: rgba(231, 231, 231, 1);
+}
+#hcs.navbar-default .navbar-toggle {
+    border-color: #ddd;
+}
+#hcs.navbar-default .navbar-toggle:hover,
+#hcs.navbar-default .navbar-toggle:focus {
+    background-color: #ddd;
+}
+#hcs.navbar-default .navbar-toggle .icon-bar {
+    background-color: #888;
+}
+#hcs.navbar-default .navbar-toggle:hover .icon-bar,
+#hcs.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #888;
+}
+
+.padding5{
+    padding:5px;
+}
